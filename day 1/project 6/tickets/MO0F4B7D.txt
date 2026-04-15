@@ -1,0 +1,8 @@
+Prio: Urgent
+
+Name: Pauline
+
+Submitted: 2026-04-15T21:03:02.285+02:00
+
+Description:
+User reported that their computer is smoking, indicating a possible hardware or electrical issue that may require immediate IT attention.
