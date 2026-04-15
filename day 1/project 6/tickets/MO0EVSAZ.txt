@@ -1,0 +1,8 @@
+Prio: Urgent
+
+Name: Teddy
+
+Submitted: 2026-04-15T20:58:52.626+02:00
+
+Description:
+User is unable to type into the student portal password box on a home computer. This is preventing them from logging in.
